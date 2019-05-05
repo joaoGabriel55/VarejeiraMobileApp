@@ -8,7 +8,7 @@ import android.widget.EditText;
 
 import com.varejeira.mobile.R;
 
-public class Cadastro_cliente extends AppCompatActivity {
+public class CadastroCliente extends AppCompatActivity {
 
     private EditText nome;
     private EditText email;

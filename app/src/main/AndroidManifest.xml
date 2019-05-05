@@ -11,8 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="mobile.varejeira.com.varejeira.Cadastro_cliente"></activity>
-        <activity android:name="mobile.varejeira.com.varejeira.login_activity" />
+        <activity android:name="mobile.varejeira.com.varejeira.PerfilFuncionarioActivity"></activity>
+        <activity android:name="mobile.varejeira.com.varejeira.CadastroCliente" />
+        <activity android:name="mobile.varejeira.com.varejeira.LoginActivity" />
         <activity
             android:name="mobile.varejeira.com.varejeira.MainActivity"
             android:label="@string/app_name"
