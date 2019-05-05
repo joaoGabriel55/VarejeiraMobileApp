@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 public class TestModelFromJson {
 
-    @SerializedName("title")
+    @SerializedName("name")
     private String title;
     @SerializedName("url")
     private String url;

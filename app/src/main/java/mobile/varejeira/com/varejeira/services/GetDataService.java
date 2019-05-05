@@ -8,6 +8,6 @@ import retrofit2.http.GET;
 
 public interface GetDataService {
 
-    @GET("/photos")
+    @GET("/users")
     Call<List<TestModelFromJson>> getAllData();
 }
